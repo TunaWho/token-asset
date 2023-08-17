@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://mainnet.opbnbscan.com/address/0x4200000000000000000000000000000000000006",
+    "status": "active",
+    "id": "0x4200000000000000000000000000000000000006"
+}
