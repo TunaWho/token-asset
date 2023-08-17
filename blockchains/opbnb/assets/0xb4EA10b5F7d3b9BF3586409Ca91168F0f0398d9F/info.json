@@ -1,0 +1,11 @@
+{
+    "name": "OPBNB",
+    "symbol": "OPBNB",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://mainnet.opbnbscan.com/address/0xb4EA10b5F7d3b9BF3586409Ca91168F0f0398d9F",
+    "status": "active",
+    "id": "0xb4EA10b5F7d3b9BF3586409Ca91168F0f0398d9F"
+}
