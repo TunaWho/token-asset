@@ -1,0 +1,11 @@
+{
+    "name": "FeDex Fiannce",
+    "symbol": "FED",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://mainnet.opbnbscan.com/address/0xf584c4521bB890b0aD1eb68a9b1113339e0A7E85",
+    "status": "active",
+    "id": "0xf584c4521bB890b0aD1eb68a9b1113339e0A7E85"
+}
