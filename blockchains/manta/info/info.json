@@ -1,10 +1,10 @@
 {
-    "name": "Bitgert",
+    "name": "Ether",
     "website": "https://bitgert.com/",
     "description": "Zero gas fee 100k tps Ethereum compatible Blockchain",
     "explorer": "https://brisescan.com/",
     "research": "https://research.binance.com/en/projects/ethereum",
-    "symbol": "BRISE",
+    "symbol": "ETH",
     "type": "coin",
     "decimals": 18,
     "status": "active",
