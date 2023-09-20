@@ -1,0 +1,11 @@
+{
+    "name": "MantaSwap",
+    "symbol": "USDC",
+    "type": "USD Coin",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://pacific-explorer.manta.network/0xb73603c5d87fa094b7314c74ace2e64d165016fb",
+    "status": "active",
+    "id": "0xb73603c5d87fa094b7314c74ace2e64d165016fb"
+}
