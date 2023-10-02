@@ -1,0 +1,11 @@
+{
+    "name": "MantaSwap",
+    "symbol": "MTS",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.zetachain.com/address/0x084DAb7a1C4A6DFd3cbBdBF63a6dc1071cbEE323",
+    "status": "active",
+    "id": "0x084DAb7a1C4A6DFd3cbBdBF63a6dc1071cbEE323"
+}
