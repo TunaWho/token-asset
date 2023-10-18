@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "type": "USD Coin",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://blockscout.scroll.io/0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "status": "active",
+    "id": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4"
+}
