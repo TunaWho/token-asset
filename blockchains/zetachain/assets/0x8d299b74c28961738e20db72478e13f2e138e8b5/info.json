@@ -1,0 +1,11 @@
+{
+    "name": "Katanaswap",
+    "symbol": "USDC",
+    "type": "USD Coin",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://pacific-explorer.manta.network/0x8d299b74c28961738e20db72478e13f2e138e8b5",
+    "status": "active",
+    "id": "0x8d299b74c28961738e20db72478e13f2e138e8b5"
+}
