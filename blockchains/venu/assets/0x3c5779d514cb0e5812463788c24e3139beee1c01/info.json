@@ -1,0 +1,11 @@
+{
+    "name": "Katana",
+    "symbol": "KTN",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://zetachain-athens-3.blockscout.com/address/0x3c5779d514cb0e5812463788c24e3139beee1c01",
+    "status": "active",
+    "id": "0x3c5779d514cb0e5812463788c24e3139beee1c01"
+}
